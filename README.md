@@ -1,5 +1,8 @@
-# educare price gnome ticket 
+# educare gnome price ticker
 
-Gnome 3 desktop ticker for educare price with Python and argos. Rename to educare.1r.60s.py and put in ~/.config/argos
+Get educare price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/educare-price-gnome-ticket/](https://codesharedot.github.io/educare-price-gnome-ticket/)
 
-https://pythonbasics.org
+educare price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to educare.1r60s.py and put in ~/.config/argos
